@@ -1,0 +1,7 @@
+{
+  "entries": [
+    { "path": "../skills" },
+    { "path": "../ecc/skills" },
+    { "path": "../ruflo/plugin" }
+  ]
+}

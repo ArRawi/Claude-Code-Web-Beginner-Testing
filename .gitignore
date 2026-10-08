@@ -1,0 +1,49 @@
+# Environment and secrets
+.env
+.env*.local
+*.pem
+*.key
+*.crt
+*.der
+*.pfx
+certs/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts & temp
+dist/
+build/
+coverage/
+.cache/
+.temp/
+tmp/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# IDE & Editor local settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# Local agent runtimes & worktrees
+.worktrees/
+.private-journal/
+.claude/settings.local.json
+.superpowers/
+evals/

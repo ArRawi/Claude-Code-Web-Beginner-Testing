@@ -1,0 +1,12 @@
+[submodule "ecc"]
+	path = ecc
+	url = https://github.com/affaan-m/ECC.git
+[submodule "andrej-karpathy-skills"]
+	path = andrej-karpathy-skills
+	url = https://github.com/multica-ai/andrej-karpathy-skills.git
+[submodule "open-design"]
+	path = open-design
+	url = https://github.com/nexu-io/open-design.git
+[submodule "ruflo"]
+	path = ruflo
+	url = https://github.com/ruvnet/ruflo.git
